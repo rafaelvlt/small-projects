@@ -8,3 +8,6 @@ madLibs: i suposse it's like a madlibs(not gonna lie don't even know what is thi
 shacopelado-trojan: it's a """rat""" wich nukes the current dir which he is executed with thirty copys of a h.txt which change names to be like a laught so the second .txt would be ha.txt and the third hah.txt, inside all of them they have the same random arab text, dont ask me
 
 Selective-copy: searchs the inputted source and destination with the inputted extension for files with certain extension, and then copies every one it finds in the source or any subfolder of the source to the destination. assignement
+
+
+2048averageplayer: opens a firefox browser and spam the arrow keys in a pattern until it loses(the until it loses part is no yet implement lol)
